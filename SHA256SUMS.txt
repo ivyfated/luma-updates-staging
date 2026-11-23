@@ -1,0 +1,2 @@
+ed9e6fb26d48302dcee758b83eb40772e785efe6befe79712df508c63584c93a  LUMA-0.3.3-alpha-Android.apk
+e8ad0dac0d3d5a4f30cb122eb590e95dad75e9c0fb0b72bf3ff6010dcfb1e112  alpha.json
